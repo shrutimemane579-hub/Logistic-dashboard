@@ -1,0 +1,359 @@
+delivery_id,order_date,hub_id,hub_side,delivery_area,delivery_slot,promised_delivery_hours,actual_delivery_hours,delivery_status,delivery_partner
+20260212_1,2026-02-12,Thane_West_Hub,West,Naupada,Evening,29,29.9,Delivered,Partner_C
+20260212_2,2026-02-12,Thane_West_Hub,West,Naupada,Afternoon,31,31.9,Delivered,Partner_B
+20260212_3,2026-02-12,Thane_West_Hub,West,Naupada,Evening,28,26.7,Delivered,Partner_A
+20260212_4,2026-02-12,Thane_West_Hub,West,Naupada,Morning,27,26.8,Delivered,Partner_B
+20260212_5,2026-02-12,Thane_West_Hub,West,Naupada,Afternoon,30,30.5,Delivered,Partner_A
+20260212_6,2026-02-12,Thane_West_Hub,West,Naupada,Afternoon,27,26.7,Delivered,Partner_C
+20260212_7,2026-02-12,Thane_West_Hub,West,Panchpakhadi,Evening,31,34.4,Delivered,Partner_C
+20260212_8,2026-02-12,Thane_West_Hub,West,Panchpakhadi,Morning,31,29.8,Delivered,Partner_C
+20260212_9,2026-02-12,Thane_West_Hub,West,Panchpakhadi,Morning,27,27.4,Delivered,Partner_C
+20260212_10,2026-02-12,Thane_West_Hub,West,Panchpakhadi,Afternoon,30,32.1,Delivered,Partner_C
+20260212_11,2026-02-12,Thane_West_Hub,West,Panchpakhadi,Morning,28,26.3,Delivered,Partner_C
+20260212_12,2026-02-12,Thane_West_Hub,West,Panchpakhadi,Evening,27,27.7,Delivered,Partner_B
+20260212_13,2026-02-12,Thane_West_Hub,West,Panchpakhadi,Morning,30,28.2,Delivered,Partner_A
+20260212_14,2026-02-12,Thane_West_Hub,West,Panchpakhadi,Morning,27,27.0,Delivered,Partner_C
+20260212_15,2026-02-12,Thane_West_Hub,West,Panchpakhadi,Evening,28,28.7,Delivered,Partner_C
+20260212_16,2026-02-12,Thane_West_Hub,West,Panchpakhadi,Evening,29,31.7,Delivered,Partner_A
+20260212_17,2026-02-12,Thane_West_Hub,West,Ram Maruti Road,Afternoon,27,26.4,Delivered,Partner_B
+20260212_18,2026-02-12,Thane_West_Hub,West,Ram Maruti Road,Morning,30,28.6,Delivered,Partner_A
+20260212_19,2026-02-12,Thane_West_Hub,West,Ram Maruti Road,Morning,29,30.2,Delivered,Partner_A
+20260212_20,2026-02-12,Thane_West_Hub,West,Ram Maruti Road,Afternoon,30,31.1,Delivered,Partner_A
+20260212_21,2026-02-12,Thane_West_Hub,West,Ram Maruti Road,Afternoon,29,30.5,Delivered,Partner_B
+20260212_22,2026-02-12,Thane_West_Hub,West,Ram Maruti Road,Evening,30,32.8,Delivered,Partner_A
+20260212_23,2026-02-12,Thane_West_Hub,West,Ram Maruti Road,Afternoon,29,28.6,Delivered,Partner_A
+20260212_24,2026-02-12,Thane_West_Hub,West,Ram Maruti Road,Morning,30,30.7,Delivered,Partner_C
+20260212_25,2026-02-12,Thane_West_Hub,West,Ram Maruti Road,Morning,27,27.1,Delivered,Partner_C
+20260212_26,2026-02-12,Thane_West_Hub,West,Ram Maruti Road,Evening,28,28.6,Delivered,Partner_B
+20260212_27,2026-02-12,Thane_West_Hub,West,Ram Maruti Road,Morning,28,27.1,Delivered,Partner_C
+20260212_28,2026-02-12,Thane_West_Hub,West,Ram Maruti Road,Afternoon,29,28.0,Delivered,Partner_A
+20260212_29,2026-02-12,Thane_West_Hub,West,Talaopali,Afternoon,30,30.9,Delivered,Partner_C
+20260212_30,2026-02-12,Thane_West_Hub,West,Talaopali,Morning,27,26.1,Delivered,Partner_C
+20260212_31,2026-02-12,Thane_West_Hub,West,Talaopali,Morning,29,28.3,Delivered,Partner_C
+20260212_32,2026-02-12,Thane_West_Hub,West,Talaopali,Afternoon,31,32.6,Delivered,Partner_A
+20260212_33,2026-02-12,Thane_West_Hub,West,Talaopali,Afternoon,30,30.9,Delivered,Partner_A
+20260212_34,2026-02-12,Thane_West_Hub,West,Talaopali,Afternoon,30,32.5,Delivered,Partner_A
+20260212_35,2026-02-12,Thane_West_Hub,West,Talaopali,Morning,29,28.7,Delivered,Partner_C
+20260212_36,2026-02-12,Thane_West_Hub,West,Talaopali,Morning,30,30.1,Delivered,Partner_A
+20260212_37,2026-02-12,Thane_West_Hub,West,Uthalsar,Morning,30,30.2,Delivered,Partner_C
+20260212_38,2026-02-12,Thane_West_Hub,West,Uthalsar,Afternoon,28,26.8,Delivered,Partner_A
+20260212_39,2026-02-12,Thane_West_Hub,West,Uthalsar,Afternoon,29,30.9,Delivered,Partner_A
+20260212_40,2026-02-12,Thane_West_Hub,West,Uthalsar,Morning,30,29.0,Delivered,Partner_B
+20260212_41,2026-02-12,Thane_West_Hub,West,Uthalsar,Evening,27,27.1,Delivered,Partner_C
+20260212_42,2026-02-12,Thane_West_Hub,West,Uthalsar,Morning,29,30.0,Delivered,Partner_A
+20260212_43,2026-02-12,Thane_West_Hub,West,Uthalsar,Afternoon,30,33.0,Delivered,Partner_A
+20260212_44,2026-02-12,Thane_West_Hub,West,Uthalsar,Evening,27,27.9,Delivered,Partner_B
+20260212_45,2026-02-12,Thane_West_Hub,West,Uthalsar,Morning,31,30.4,Delivered,Partner_B
+20260212_46,2026-02-12,Thane_West_Hub,West,Uthalsar,Afternoon,31,33.8,Delivered,Partner_C
+20260212_47,2026-02-12,Thane_West_Hub,West,Vartak Nagar,Morning,30,29.3,Delivered,Partner_A
+20260212_48,2026-02-12,Thane_West_Hub,West,Vartak Nagar,Morning,31,31.7,Delivered,Partner_C
+20260212_49,2026-02-12,Thane_West_Hub,West,Vartak Nagar,Morning,30,28.7,Delivered,Partner_B
+20260212_50,2026-02-12,Thane_West_Hub,West,Vartak Nagar,Evening,31,36.8,Failed,Partner_B
+20260212_51,2026-02-12,Thane_West_Hub,West,Vartak Nagar,Morning,28,27.1,Delivered,Partner_A
+20260212_52,2026-02-12,Thane_West_Hub,West,Vartak Nagar,Evening,27,27.1,Delivered,Partner_A
+20260212_53,2026-02-12,Thane_West_Hub,West,Vartak Nagar,Evening,29,29.8,Delivered,Partner_B
+20260212_54,2026-02-12,Thane_West_Hub,West,Vartak Nagar,Afternoon,27,27.9,Delivered,Partner_B
+20260212_55,2026-02-12,Thane_West_Hub,West,Vartak Nagar,Afternoon,28,27.6,Delivered,Partner_B
+20260212_56,2026-02-12,Thane_West_Hub,West,Vartak Nagar,Morning,27,26.0,Delivered,Partner_B
+20260212_57,2026-02-12,Thane_West_Hub,West,Vartak Nagar,Evening,30,34.5,Delivered,Partner_A
+20260212_58,2026-02-12,Thane_West_Hub,West,Vartak Nagar,Afternoon,27,27.8,Delivered,Partner_B
+20260212_59,2026-02-12,Thane_West_Hub,West,Vartak Nagar,Afternoon,30,32.2,Delivered,Partner_A
+20260212_60,2026-02-12,Thane_West_Hub,West,Vartak Nagar,Morning,27,27.8,Delivered,Partner_B
+20260212_61,2026-02-12,Thane_West_Hub,West,Lokmanya Nagar,Evening,31,36.2,Failed,Partner_C
+20260212_62,2026-02-12,Thane_West_Hub,West,Lokmanya Nagar,Morning,30,29.6,Delivered,Partner_C
+20260212_63,2026-02-12,Thane_West_Hub,West,Lokmanya Nagar,Evening,28,26.3,Delivered,Partner_B
+20260212_64,2026-02-12,Thane_West_Hub,West,Lokmanya Nagar,Afternoon,30,32.0,Delivered,Partner_C
+20260212_65,2026-02-12,Thane_West_Hub,West,Lokmanya Nagar,Morning,28,26.7,Delivered,Partner_C
+20260212_66,2026-02-12,Thane_West_Hub,West,Lokmanya Nagar,Morning,31,31.7,Delivered,Partner_A
+20260212_67,2026-02-12,Thane_West_Hub,West,Lokmanya Nagar,Afternoon,28,27.1,Delivered,Partner_C
+20260212_68,2026-02-12,Thane_West_Hub,West,Lokmanya Nagar,Evening,27,26.5,Delivered,Partner_B
+20260212_69,2026-02-12,Thane_West_Hub,West,Nitin Company Area,Afternoon,30,30.0,Delivered,Partner_A
+20260212_70,2026-02-12,Thane_West_Hub,West,Nitin Company Area,Afternoon,27,26.5,Delivered,Partner_C
+20260212_71,2026-02-12,Thane_West_Hub,West,Nitin Company Area,Morning,30,30.4,Delivered,Partner_B
+20260212_72,2026-02-12,Thane_West_Hub,West,Nitin Company Area,Morning,30,30.8,Delivered,Partner_A
+20260212_73,2026-02-12,Thane_West_Hub,West,Nitin Company Area,Evening,30,32.1,Delivered,Partner_A
+20260212_74,2026-02-12,Thane_West_Hub,West,Nitin Company Area,Morning,29,28.4,Delivered,Partner_B
+20260212_75,2026-02-12,Thane_West_Hub,West,Nitin Company Area,Evening,30,36.0,Delivered,Partner_A
+20260212_76,2026-02-12,Thane_West_Hub,West,Nitin Company Area,Evening,29,29.9,Delivered,Partner_A
+20260212_77,2026-02-12,Thane_West_Hub,West,Nitin Company Area,Morning,31,31.8,Delivered,Partner_A
+20260212_78,2026-02-12,Thane_West_Hub,West,Nitin Company Area,Afternoon,31,32.9,Delivered,Partner_B
+20260212_79,2026-02-12,Thane_West_Hub,West,Nitin Company Area,Morning,31,30.5,Delivered,Partner_A
+20260212_80,2026-02-12,Thane_West_Hub,West,Nitin Company Area,Afternoon,30,30.4,Delivered,Partner_B
+20260212_81,2026-02-12,Thane_West_Hub,West,Nitin Company Area,Afternoon,30,31.0,Delivered,Partner_B
+20260212_82,2026-02-12,Thane_West_Hub,West,Vasant Vihar,Morning,30,28.4,Delivered,Partner_C
+20260212_83,2026-02-12,Thane_West_Hub,West,Vasant Vihar,Afternoon,28,27.7,Delivered,Partner_C
+20260212_84,2026-02-12,Thane_West_Hub,West,Vasant Vihar,Evening,29,30.6,Delivered,Partner_A
+20260212_85,2026-02-12,Thane_West_Hub,West,Vasant Vihar,Evening,31,34.8,Delivered,Partner_C
+20260212_86,2026-02-12,Thane_West_Hub,West,Vasant Vihar,Afternoon,28,27.5,Delivered,Partner_A
+20260212_87,2026-02-12,Thane_West_Hub,West,Vasant Vihar,Morning,28,27.5,Delivered,Partner_B
+20260212_88,2026-02-12,Thane_West_Hub,West,Vasant Vihar,Evening,29,31.6,Delivered,Partner_A
+20260212_89,2026-02-12,Thane_West_Hub,West,Vasant Vihar,Afternoon,30,30.2,Delivered,Partner_C
+20260212_90,2026-02-12,Thane_West_Hub,West,Vasant Vihar,Morning,27,27.3,Delivered,Partner_B
+20260212_91,2026-02-12,Thane_West_Hub,West,Vasant Vihar,Evening,29,31.0,Delivered,Partner_A
+20260212_92,2026-02-12,Thane_West_Hub,West,Vasant Vihar,Afternoon,29,28.0,Delivered,Partner_C
+20260212_93,2026-02-12,Thane_West_Hub,West,Vasant Vihar,Evening,29,28.4,Delivered,Partner_C
+20260212_94,2026-02-12,Thane_West_Hub,West,Vasant Vihar,Morning,28,27.1,Delivered,Partner_B
+20260212_95,2026-02-12,Thane_West_Hub,West,Chirag Nagar,Afternoon,31,31.5,Delivered,Partner_C
+20260212_96,2026-02-12,Thane_West_Hub,West,Chirag Nagar,Evening,29,32.0,Delivered,Partner_A
+20260212_97,2026-02-12,Thane_West_Hub,West,Chirag Nagar,Evening,28,28.1,Delivered,Partner_C
+20260212_98,2026-02-12,Thane_West_Hub,West,Chirag Nagar,Afternoon,29,30.2,Delivered,Partner_A
+20260212_99,2026-02-12,Thane_West_Hub,West,Chirag Nagar,Afternoon,27,25.8,Delivered,Partner_C
+20260212_100,2026-02-12,Thane_West_Hub,West,Chirag Nagar,Evening,31,33.3,Delivered,Partner_C
+20260212_101,2026-02-12,Thane_West_Hub,West,Chirag Nagar,Morning,31,31.3,Delivered,Partner_A
+20260212_102,2026-02-12,Thane_West_Hub,West,Upvan,Morning,30,28.5,Delivered,Partner_B
+20260212_103,2026-02-12,Thane_West_Hub,West,Upvan,Afternoon,28,28.0,Delivered,Partner_C
+20260212_104,2026-02-12,Thane_West_Hub,West,Upvan,Afternoon,28,28.6,Delivered,Partner_B
+20260212_105,2026-02-12,Thane_West_Hub,West,Upvan,Afternoon,28,27.9,Delivered,Partner_C
+20260212_106,2026-02-12,Thane_West_Hub,West,Upvan,Evening,30,34.1,Delivered,Partner_B
+20260212_107,2026-02-12,Thane_West_Hub,West,Upvan,Morning,28,28.1,Delivered,Partner_B
+20260212_108,2026-02-12,Thane_West_Hub,West,Upvan,Evening,27,25.6,Delivered,Partner_A
+20260212_109,2026-02-12,Thane_West_Hub,West,Upvan,Morning,30,29.5,Delivered,Partner_B
+20260212_110,2026-02-12,Thane_West_Hub,West,Upvan,Afternoon,29,28.4,Delivered,Partner_A
+20260212_111,2026-02-12,Thane_West_Hub,West,Upvan,Morning,29,31.5,Delivered,Partner_B
+20260212_112,2026-02-12,Thane_West_Hub,West,Upvan,Morning,27,25.3,Delivered,Partner_B
+20260212_113,2026-02-12,Thane_West_Hub,West,Upvan,Afternoon,27,27.0,Delivered,Partner_A
+20260212_114,2026-02-12,Thane_West_Hub,West,Upvan,Morning,29,29.4,Delivered,Partner_C
+20260212_115,2026-02-12,Thane_West_Hub,West,Upvan,Evening,31,33.7,Delivered,Partner_B
+20260212_116,2026-02-12,Thane_West_Hub,West,Upvan,Morning,30,29.3,Delivered,Partner_B
+20260212_117,2026-02-12,Thane_West_Hub,West,Dhokali,Morning,28,26.6,Delivered,Partner_B
+20260212_118,2026-02-12,Thane_West_Hub,West,Dhokali,Afternoon,29,31.9,Delivered,Partner_A
+20260212_119,2026-02-12,Thane_West_Hub,West,Dhokali,Evening,28,28.8,Delivered,Partner_C
+20260212_120,2026-02-12,Thane_West_Hub,West,Dhokali,Morning,30,30.3,Delivered,Partner_C
+20260212_121,2026-02-12,Thane_West_Hub,West,Dhokali,Morning,27,26.0,Delivered,Partner_B
+20260212_122,2026-02-12,Thane_West_Hub,West,Dhokali,Morning,27,27.7,Delivered,Partner_A
+20260212_123,2026-02-12,Thane_West_Hub,West,Dhokali,Evening,29,29.7,Delivered,Partner_A
+20260212_124,2026-02-12,Thane_West_Hub,West,Dhokali,Morning,29,31.2,Delivered,Partner_C
+20260212_125,2026-02-12,Thane_West_Hub,West,Dhokali,Afternoon,31,31.7,Delivered,Partner_C
+20260212_126,2026-02-12,Thane_West_Hub,West,Dhokali,Evening,27,28.1,Delivered,Partner_A
+20260212_127,2026-02-12,Thane_West_Hub,West,Dhokali,Morning,28,26.3,Delivered,Partner_A
+20260212_128,2026-02-12,Thane_West_Hub,West,Dhokali,Morning,28,28.6,Delivered,Partner_C
+20260212_129,2026-02-12,Thane_West_Hub,West,Majiwada,Evening,29,28.4,Delivered,Partner_C
+20260212_130,2026-02-12,Thane_West_Hub,West,Majiwada,Morning,30,31.0,Delivered,Partner_B
+20260212_131,2026-02-12,Thane_West_Hub,West,Majiwada,Evening,30,34.6,Delivered,Partner_C
+20260212_132,2026-02-12,Thane_West_Hub,West,Majiwada,Afternoon,30,32.1,Delivered,Partner_C
+20260212_133,2026-02-12,Thane_West_Hub,West,Majiwada,Afternoon,31,33.5,Delivered,Partner_B
+20260212_134,2026-02-12,Thane_West_Hub,West,Majiwada,Evening,30,32.5,Delivered,Partner_C
+20260212_135,2026-02-12,Thane_West_Hub,West,Majiwada,Evening,27,27.4,Delivered,Partner_C
+20260212_136,2026-02-12,Thane_West_Hub,West,Majiwada,Afternoon,27,27.7,Delivered,Partner_A
+20260212_137,2026-02-12,Thane_West_Hub,West,Majiwada,Evening,31,38.6,Failed,Partner_C
+20260212_138,2026-02-12,Thane_West_Hub,West,Majiwada,Afternoon,28,27.2,Delivered,Partner_B
+20260212_139,2026-02-12,Thane_West_Hub,West,Majiwada,Evening,29,33.1,Delivered,Partner_A
+20260212_140,2026-02-12,Thane_West_Hub,West,Majiwada,Afternoon,28,27.7,Delivered,Partner_C
+20260212_141,2026-02-12,Thane_West_Hub,West,Majiwada,Morning,29,30.8,Delivered,Partner_C
+20260212_142,2026-02-12,Thane_West_Hub,West,Majiwada,Morning,31,29.6,Delivered,Partner_C
+20260212_143,2026-02-12,Thane_West_Hub,West,Kolshet Road,Evening,29,31.1,Delivered,Partner_A
+20260212_144,2026-02-12,Thane_West_Hub,West,Kolshet Road,Evening,29,28.4,Delivered,Partner_B
+20260212_145,2026-02-12,Thane_West_Hub,West,Kolshet Road,Evening,31,34.2,Delivered,Partner_C
+20260212_146,2026-02-12,Thane_West_Hub,West,Kolshet Road,Evening,29,30.3,Delivered,Partner_B
+20260212_147,2026-02-12,Thane_West_Hub,West,Kolshet Road,Afternoon,31,31.1,Delivered,Partner_C
+20260212_148,2026-02-12,Thane_West_Hub,West,Kolshet Road,Morning,29,30.7,Delivered,Partner_B
+20260212_149,2026-02-12,Thane_West_Hub,West,Kolshet Road,Morning,29,31.6,Delivered,Partner_A
+20260212_150,2026-02-12,Thane_West_Hub,West,Kolshet Road,Afternoon,27,25.9,Delivered,Partner_C
+20260212_151,2026-02-12,Thane_West_Hub,West,Balkum,Morning,29,30.7,Delivered,Partner_B
+20260212_152,2026-02-12,Thane_West_Hub,West,Balkum,Afternoon,29,30.0,Delivered,Partner_C
+20260212_153,2026-02-12,Thane_West_Hub,West,Balkum,Evening,28,27.8,Delivered,Partner_C
+20260212_154,2026-02-12,Thane_West_Hub,West,Balkum,Afternoon,31,32.6,Delivered,Partner_B
+20260212_155,2026-02-12,Thane_West_Hub,West,Balkum,Morning,29,30.8,Delivered,Partner_A
+20260212_156,2026-02-12,Thane_West_Hub,West,Manpada,Morning,30,30.8,Delivered,Partner_B
+20260212_157,2026-02-12,Thane_West_Hub,West,Manpada,Afternoon,27,26.1,Delivered,Partner_B
+20260212_158,2026-02-12,Thane_West_Hub,West,Manpada,Afternoon,31,33.7,Delivered,Partner_A
+20260212_159,2026-02-12,Thane_West_Hub,West,Manpada,Evening,30,35.6,Delivered,Partner_A
+20260212_160,2026-02-12,Thane_West_Hub,West,Manpada,Morning,27,27.5,Delivered,Partner_B
+20260212_161,2026-02-12,Thane_West_Hub,West,Hiranandani Estate,Morning,28,27.1,Delivered,Partner_B
+20260212_162,2026-02-12,Thane_West_Hub,West,Hiranandani Estate,Evening,31,33.2,Delivered,Partner_B
+20260212_163,2026-02-12,Thane_West_Hub,West,Hiranandani Estate,Afternoon,27,27.4,Delivered,Partner_C
+20260212_164,2026-02-12,Thane_West_Hub,West,Hiranandani Estate,Evening,30,34.6,Delivered,Partner_C
+20260212_165,2026-02-12,Thane_West_Hub,West,Hiranandani Estate,Afternoon,27,27.2,Delivered,Partner_B
+20260212_166,2026-02-12,Thane_West_Hub,West,Hiranandani Estate,Evening,27,26.7,Delivered,Partner_A
+20260212_167,2026-02-12,Thane_West_Hub,West,Hiranandani Estate,Morning,30,29.9,Delivered,Partner_C
+20260212_168,2026-02-12,Thane_West_Hub,West,Hiranandani Estate,Morning,28,26.7,Delivered,Partner_A
+20260212_169,2026-02-12,Thane_West_Hub,West,Hiranandani Estate,Afternoon,30,32.6,Delivered,Partner_B
+20260212_170,2026-02-12,Thane_West_Hub,West,Hiranandani Estate,Morning,30,29.1,Delivered,Partner_A
+20260212_171,2026-02-12,Thane_West_Hub,West,Hiranandani Estate,Morning,31,29.6,Delivered,Partner_C
+20260212_172,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 1,Morning,29,29.4,Delivered,Partner_A
+20260212_173,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 1,Morning,30,29.6,Delivered,Partner_C
+20260212_174,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 1,Morning,28,27.5,Delivered,Partner_C
+20260212_175,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 1,Afternoon,29,28.1,Delivered,Partner_B
+20260212_176,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 1,Evening,27,25.9,Delivered,Partner_C
+20260212_177,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 1,Afternoon,27,27.5,Delivered,Partner_B
+20260212_178,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 1,Afternoon,29,31.8,Delivered,Partner_A
+20260212_179,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 1,Afternoon,30,32.0,Delivered,Partner_C
+20260212_180,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 1,Evening,27,27.2,Delivered,Partner_B
+20260212_181,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 1,Afternoon,30,31.7,Delivered,Partner_B
+20260212_182,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 1,Morning,30,30.3,Delivered,Partner_B
+20260212_183,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Evening,27,26.0,Delivered,Partner_A
+20260212_184,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Morning,28,26.4,Delivered,Partner_B
+20260212_185,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Afternoon,30,31.5,Delivered,Partner_A
+20260212_186,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Evening,30,35.0,Delivered,Partner_B
+20260212_187,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Morning,29,29.0,Delivered,Partner_A
+20260212_188,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Morning,28,27.3,Delivered,Partner_A
+20260212_189,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Morning,30,28.4,Delivered,Partner_A
+20260212_190,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Afternoon,27,25.9,Delivered,Partner_C
+20260212_191,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Afternoon,29,30.4,Delivered,Partner_B
+20260212_192,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Evening,28,28.8,Delivered,Partner_B
+20260212_193,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Afternoon,30,30.9,Delivered,Partner_A
+20260212_194,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Morning,30,29.2,Delivered,Partner_C
+20260212_195,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Morning,27,26.5,Delivered,Partner_C
+20260212_196,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Morning,30,30.9,Delivered,Partner_A
+20260212_197,2026-02-12,Thane_West_Hub,West,Pokhran Road No. 2,Morning,27,25.8,Delivered,Partner_B
+20260212_198,2026-02-12,Thane_West_Hub,West,Shivai Nagar,Morning,30,30.6,Delivered,Partner_A
+20260212_199,2026-02-12,Thane_West_Hub,West,Shivai Nagar,Morning,30,31.5,Delivered,Partner_A
+20260212_200,2026-02-12,Thane_West_Hub,West,Shivai Nagar,Morning,29,31.3,Delivered,Partner_C
+20260212_201,2026-02-12,Thane_West_Hub,West,Shivai Nagar,Evening,29,30.9,Delivered,Partner_A
+20260212_202,2026-02-12,Thane_West_Hub,West,Shivai Nagar,Evening,29,32.1,Delivered,Partner_B
+20260212_203,2026-02-12,Thane_West_Hub,West,Shivai Nagar,Morning,28,28.5,Delivered,Partner_B
+20260212_204,2026-02-12,Thane_West_Hub,West,Castle Mill,Morning,27,25.7,Delivered,Partner_A
+20260212_205,2026-02-12,Thane_West_Hub,West,Castle Mill,Evening,28,28.8,Delivered,Partner_A
+20260212_206,2026-02-12,Thane_West_Hub,West,Castle Mill,Morning,28,26.9,Delivered,Partner_A
+20260212_207,2026-02-12,Thane_West_Hub,West,Castle Mill,Evening,28,27.4,Delivered,Partner_C
+20260212_208,2026-02-12,Thane_West_Hub,West,Castle Mill,Afternoon,28,26.1,Delivered,Partner_C
+20260212_209,2026-02-12,Thane_West_Hub,West,Castle Mill,Morning,27,26.4,Delivered,Partner_A
+20260212_210,2026-02-12,Thane_West_Hub,West,Oswal Park,Morning,29,30.4,Delivered,Partner_B
+20260212_211,2026-02-12,Thane_West_Hub,West,Oswal Park,Morning,31,29.5,Delivered,Partner_C
+20260212_212,2026-02-12,Thane_West_Hub,West,Oswal Park,Afternoon,31,31.7,Delivered,Partner_B
+20260212_213,2026-02-12,Thane_West_Hub,West,Oswal Park,Afternoon,30,32.0,Delivered,Partner_B
+20260212_214,2026-02-12,Thane_West_Hub,West,Oswal Park,Evening,31,34.1,Delivered,Partner_B
+20260212_215,2026-02-12,Thane_West_Hub,West,Oswal Park,Evening,28,26.2,Delivered,Partner_B
+20260212_216,2026-02-12,Thane_West_Hub,West,Oswal Park,Evening,27,26.5,Delivered,Partner_A
+20260212_217,2026-02-12,Thane_West_Hub,West,Oswal Park,Morning,29,30.2,Delivered,Partner_B
+20260212_218,2026-02-12,Thane_West_Hub,West,Oswal Park,Morning,28,26.1,Delivered,Partner_A
+20260212_219,2026-02-12,Thane_West_Hub,West,Oswal Park,Morning,29,28.1,Delivered,Partner_A
+20260212_220,2026-02-12,Thane_West_Hub,West,Oswal Park,Morning,27,25.9,Delivered,Partner_A
+20260212_221,2026-02-12,Thane_West_Hub,West,Oswal Park,Evening,28,26.2,Delivered,Partner_C
+20260212_222,2026-02-12,Thane_West_Hub,West,Oswal Park,Afternoon,31,32.8,Delivered,Partner_B
+20260212_223,2026-02-12,Thane_West_Hub,West,Oswal Park,Afternoon,30,31.9,Delivered,Partner_A
+20260212_224,2026-02-12,Thane_West_Hub,West,Oswal Park,Evening,28,27.1,Delivered,Partner_B
+20260212_225,2026-02-12,Thane_East_Hub,East,Kopri Colony,Evening,31,36.4,Failed,Partner_C
+20260212_226,2026-02-12,Thane_East_Hub,East,Kopri Colony,Afternoon,30,32.2,Delivered,Partner_B
+20260212_227,2026-02-12,Thane_East_Hub,East,Kopri Colony,Afternoon,28,27.4,Delivered,Partner_A
+20260212_228,2026-02-12,Thane_East_Hub,East,Kopri Colony,Evening,31,33.1,Delivered,Partner_A
+20260212_229,2026-02-12,Thane_East_Hub,East,Kopri Colony,Afternoon,27,26.2,Delivered,Partner_A
+20260212_230,2026-02-12,Thane_East_Hub,East,Kopri Colony,Morning,27,28.0,Delivered,Partner_A
+20260212_231,2026-02-12,Thane_East_Hub,East,Kopri Colony,Afternoon,27,27.6,Delivered,Partner_B
+20260212_232,2026-02-12,Thane_East_Hub,East,Kopri Colony,Afternoon,27,26.0,Delivered,Partner_B
+20260212_233,2026-02-12,Thane_East_Hub,East,Kopri Gaothan,Evening,30,34.0,Delivered,Partner_C
+20260212_234,2026-02-12,Thane_East_Hub,East,Kopri Gaothan,Evening,30,33.2,Delivered,Partner_C
+20260212_235,2026-02-12,Thane_East_Hub,East,Kopri Gaothan,Afternoon,29,30.2,Delivered,Partner_A
+20260212_236,2026-02-12,Thane_East_Hub,East,Kopri Gaothan,Evening,30,33.9,Delivered,Partner_B
+20260212_237,2026-02-12,Thane_East_Hub,East,Kopri Gaothan,Evening,28,26.4,Delivered,Partner_A
+20260212_238,2026-02-12,Thane_East_Hub,East,Kopri Gaothan,Afternoon,27,25.2,Delivered,Partner_C
+20260212_239,2026-02-12,Thane_East_Hub,East,Kopri Gaothan,Morning,29,31.0,Delivered,Partner_C
+20260212_240,2026-02-12,Thane_East_Hub,East,Kopri Gaothan,Morning,31,31.9,Delivered,Partner_A
+20260212_241,2026-02-12,Thane_East_Hub,East,Kopri Gaothan,Morning,30,30.4,Delivered,Partner_B
+20260212_242,2026-02-12,Thane_East_Hub,East,Kopri Gaothan,Morning,29,28.3,Delivered,Partner_A
+20260212_243,2026-02-12,Thane_East_Hub,East,Kopri Gaothan,Afternoon,27,25.8,Delivered,Partner_B
+20260212_244,2026-02-12,Thane_East_Hub,East,Kopri Gaothan,Evening,28,27.2,Delivered,Partner_A
+20260212_245,2026-02-12,Thane_East_Hub,East,Kopri Gaothan,Morning,29,28.8,Delivered,Partner_A
+20260212_246,2026-02-12,Thane_East_Hub,East,Teen Hath Naka,Afternoon,27,26.9,Delivered,Partner_A
+20260212_247,2026-02-12,Thane_East_Hub,East,Teen Hath Naka,Afternoon,31,34.0,Delivered,Partner_C
+20260212_248,2026-02-12,Thane_East_Hub,East,Teen Hath Naka,Afternoon,27,25.2,Delivered,Partner_B
+20260212_249,2026-02-12,Thane_East_Hub,East,Teen Hath Naka,Afternoon,28,29.3,Delivered,Partner_B
+20260212_250,2026-02-12,Thane_East_Hub,East,Teen Hath Naka,Morning,27,27.5,Delivered,Partner_C
+20260212_251,2026-02-12,Thane_East_Hub,East,Teen Hath Naka,Evening,27,25.2,Delivered,Partner_A
+20260212_252,2026-02-12,Thane_East_Hub,East,Teen Hath Naka,Evening,30,34.1,Delivered,Partner_A
+20260212_253,2026-02-12,Thane_East_Hub,East,Teen Hath Naka,Evening,31,35.4,Delivered,Partner_B
+20260212_254,2026-02-12,Thane_East_Hub,East,Savarkar Nagar,Morning,27,28.0,Delivered,Partner_A
+20260212_255,2026-02-12,Thane_East_Hub,East,Savarkar Nagar,Afternoon,31,32.5,Delivered,Partner_A
+20260212_256,2026-02-12,Thane_East_Hub,East,Savarkar Nagar,Evening,31,34.2,Delivered,Partner_C
+20260212_257,2026-02-12,Thane_East_Hub,East,Savarkar Nagar,Afternoon,29,31.0,Delivered,Partner_B
+20260212_258,2026-02-12,Thane_East_Hub,East,Savarkar Nagar,Evening,31,34.4,Delivered,Partner_A
+20260212_259,2026-02-12,Thane_East_Hub,East,Savarkar Nagar,Afternoon,27,25.8,Delivered,Partner_B
+20260212_260,2026-02-12,Thane_East_Hub,East,Chitalsar,Morning,31,30.0,Delivered,Partner_B
+20260212_261,2026-02-12,Thane_East_Hub,East,Chitalsar,Afternoon,29,30.8,Delivered,Partner_C
+20260212_262,2026-02-12,Thane_East_Hub,East,Chitalsar,Afternoon,30,30.0,Delivered,Partner_A
+20260212_263,2026-02-12,Thane_East_Hub,East,Chitalsar,Morning,28,28.8,Delivered,Partner_A
+20260212_264,2026-02-12,Thane_East_Hub,East,Chitalsar,Morning,27,26.0,Delivered,Partner_C
+20260212_265,2026-02-12,Thane_East_Hub,East,Chitalsar,Afternoon,28,26.3,Delivered,Partner_C
+20260212_266,2026-02-12,Thane_East_Hub,East,Chitalsar,Evening,29,29.4,Delivered,Partner_A
+20260212_267,2026-02-12,Thane_East_Hub,East,Chitalsar,Evening,31,33.6,Delivered,Partner_B
+20260212_268,2026-02-12,Thane_East_Hub,East,Chitalsar,Afternoon,27,27.2,Delivered,Partner_C
+20260212_269,2026-02-12,Thane_East_Hub,East,Chitalsar,Morning,27,27.8,Delivered,Partner_C
+20260212_270,2026-02-12,Thane_East_Hub,East,Chitalsar,Evening,29,30.7,Delivered,Partner_B
+20260212_271,2026-02-12,Thane_East_Hub,East,Shrirang Society,Morning,27,25.2,Delivered,Partner_A
+20260212_272,2026-02-12,Thane_East_Hub,East,Shrirang Society,Morning,28,27.0,Delivered,Partner_B
+20260212_273,2026-02-12,Thane_East_Hub,East,Shrirang Society,Morning,29,29.8,Delivered,Partner_B
+20260212_274,2026-02-12,Thane_East_Hub,East,Shrirang Society,Evening,31,35.1,Delivered,Partner_A
+20260212_275,2026-02-12,Thane_East_Hub,East,Shrirang Society,Afternoon,27,27.5,Delivered,Partner_A
+20260212_276,2026-02-12,Thane_East_Hub,East,Shrirang Society,Afternoon,28,29.0,Delivered,Partner_A
+20260212_277,2026-02-12,Thane_East_Hub,East,Bramhala Talao,Morning,29,30.6,Delivered,Partner_A
+20260212_278,2026-02-12,Thane_East_Hub,East,Bramhala Talao,Morning,31,30.9,Delivered,Partner_B
+20260212_279,2026-02-12,Thane_East_Hub,East,Bramhala Talao,Evening,28,28.6,Delivered,Partner_B
+20260212_280,2026-02-12,Thane_East_Hub,East,Bramhala Talao,Morning,30,30.9,Delivered,Partner_B
+20260212_281,2026-02-12,Thane_East_Hub,East,Bramhala Talao,Morning,29,31.5,Delivered,Partner_C
+20260212_282,2026-02-12,Thane_East_Hub,East,Mukund Company Area,Afternoon,30,31.3,Delivered,Partner_C
+20260212_283,2026-02-12,Thane_East_Hub,East,Mukund Company Area,Afternoon,28,28.2,Delivered,Partner_C
+20260212_284,2026-02-12,Thane_East_Hub,East,Mukund Company Area,Afternoon,27,25.4,Delivered,Partner_C
+20260212_285,2026-02-12,Thane_East_Hub,East,Mukund Company Area,Afternoon,30,31.1,Delivered,Partner_C
+20260212_286,2026-02-12,Thane_East_Hub,East,Mukund Company Area,Morning,28,29.0,Delivered,Partner_C
+20260212_287,2026-02-12,Thane_East_Hub,East,Mukund Company Area,Evening,29,28.5,Delivered,Partner_B
+20260212_288,2026-02-12,Thane_East_Hub,East,Mukund Company Area,Afternoon,28,28.4,Delivered,Partner_C
+20260212_289,2026-02-12,Thane_East_Hub,East,Mukund Company Area,Evening,31,34.3,Delivered,Partner_A
+20260212_290,2026-02-12,Thane_East_Hub,East,Mukund Company Area,Morning,29,30.7,Delivered,Partner_A
+20260212_291,2026-02-12,Thane_East_Hub,East,Mukund Company Area,Evening,28,29.0,Delivered,Partner_C
+20260212_292,2026-02-12,Thane_East_Hub,East,Mukund Company Area,Morning,29,30.1,Delivered,Partner_A
+20260212_293,2026-02-12,Thane_East_Hub,East,Mukund Company Area,Evening,31,35.0,Delivered,Partner_C
+20260212_294,2026-02-12,Thane_East_Hub,East,Mukund Company Area,Evening,29,29.6,Delivered,Partner_A
+20260212_295,2026-02-12,Thane_East_Hub,East,Mukund Company Area,Evening,28,27.7,Delivered,Partner_A
+20260212_296,2026-02-12,Thane_East_Hub,East,Hari Om Nagar,Evening,30,35.6,Delivered,Partner_B
+20260212_297,2026-02-12,Thane_East_Hub,East,Hari Om Nagar,Evening,31,34.1,Delivered,Partner_C
+20260212_298,2026-02-12,Thane_East_Hub,East,Hari Om Nagar,Evening,29,31.1,Delivered,Partner_C
+20260212_299,2026-02-12,Thane_East_Hub,East,Hari Om Nagar,Afternoon,31,32.8,Delivered,Partner_B
+20260212_300,2026-02-12,Thane_East_Hub,East,Hari Om Nagar,Afternoon,31,32.4,Delivered,Partner_B
+20260212_301,2026-02-12,Thane_East_Hub,East,Hari Om Nagar,Afternoon,28,28.7,Delivered,Partner_B
+20260212_302,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Afternoon,31,31.9,Delivered,Partner_B
+20260212_303,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Morning,31,31.3,Delivered,Partner_B
+20260212_304,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Morning,29,31.6,Delivered,Partner_A
+20260212_305,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Afternoon,29,29.5,Delivered,Partner_C
+20260212_306,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Morning,30,30.9,Delivered,Partner_C
+20260212_307,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Morning,30,30.0,Delivered,Partner_B
+20260212_308,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Evening,30,34.2,Delivered,Partner_A
+20260212_309,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Morning,27,25.1,Delivered,Partner_A
+20260212_310,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Afternoon,28,27.0,Delivered,Partner_B
+20260212_311,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Morning,31,31.7,Delivered,Partner_C
+20260212_312,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Morning,27,26.4,Delivered,Partner_B
+20260212_313,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Morning,27,25.7,Delivered,Partner_C
+20260212_314,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Evening,27,26.1,Delivered,Partner_B
+20260212_315,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Evening,31,33.6,Delivered,Partner_A
+20260212_316,2026-02-12,Thane_East_Hub,East,Raghunath Nagar,Morning,30,30.6,Delivered,Partner_B
+20260212_317,2026-02-12,Thane_East_Hub,East,Shastri Nagar,Evening,28,26.3,Delivered,Partner_B
+20260212_318,2026-02-12,Thane_East_Hub,East,Shastri Nagar,Evening,27,26.3,Delivered,Partner_C
+20260212_319,2026-02-12,Thane_East_Hub,East,Shastri Nagar,Morning,31,30.2,Delivered,Partner_A
+20260212_320,2026-02-12,Thane_East_Hub,East,Shastri Nagar,Morning,28,28.2,Delivered,Partner_B
+20260212_321,2026-02-12,Thane_East_Hub,East,Shastri Nagar,Morning,27,26.0,Delivered,Partner_C
+20260212_322,2026-02-12,Thane_East_Hub,East,Shastri Nagar,Evening,28,27.4,Delivered,Partner_A
+20260212_323,2026-02-12,Thane_East_Hub,East,Shastri Nagar,Afternoon,27,26.5,Delivered,Partner_B
+20260212_324,2026-02-12,Thane_East_Hub,East,Louis Wadi,Afternoon,31,32.3,Delivered,Partner_C
+20260212_325,2026-02-12,Thane_East_Hub,East,Louis Wadi,Evening,31,35.8,Delivered,Partner_B
+20260212_326,2026-02-12,Thane_East_Hub,East,Louis Wadi,Evening,28,27.4,Delivered,Partner_C
+20260212_327,2026-02-12,Thane_East_Hub,East,Louis Wadi,Afternoon,27,26.6,Delivered,Partner_C
+20260212_328,2026-02-12,Thane_East_Hub,East,Louis Wadi,Evening,28,26.1,Delivered,Partner_A
+20260212_329,2026-02-12,Thane_East_Hub,East,Louis Wadi,Morning,31,31.7,Delivered,Partner_C
+20260212_330,2026-02-12,Thane_East_Hub,East,Louis Wadi,Evening,28,27.6,Delivered,Partner_B
+20260212_331,2026-02-12,Thane_East_Hub,East,Louis Wadi,Afternoon,27,25.7,Delivered,Partner_B
+20260212_332,2026-02-12,Thane_East_Hub,East,Louis Wadi,Evening,27,26.3,Delivered,Partner_A
+20260212_333,2026-02-12,Thane_East_Hub,East,Louis Wadi,Morning,31,30.7,Delivered,Partner_B
+20260212_334,2026-02-12,Thane_East_Hub,East,Anand Nagar,Evening,31,34.5,Delivered,Partner_B
+20260212_335,2026-02-12,Thane_East_Hub,East,Anand Nagar,Evening,30,33.6,Delivered,Partner_C
+20260212_336,2026-02-12,Thane_East_Hub,East,Anand Nagar,Morning,30,28.5,Delivered,Partner_A
+20260212_337,2026-02-12,Thane_East_Hub,East,Anand Nagar,Evening,30,32.1,Delivered,Partner_B
+20260212_338,2026-02-12,Thane_East_Hub,East,Anand Nagar,Evening,31,36.1,Failed,Partner_B
+20260212_339,2026-02-12,Thane_East_Hub,East,Anand Nagar,Morning,31,29.7,Delivered,Partner_C
+20260212_340,2026-02-12,Thane_East_Hub,East,Anand Nagar,Evening,30,32.3,Delivered,Partner_B
+20260212_341,2026-02-12,Thane_East_Hub,East,Koliwada,Morning,29,31.7,Delivered,Partner_A
+20260212_342,2026-02-12,Thane_East_Hub,East,Koliwada,Morning,29,28.4,Delivered,Partner_B
+20260212_343,2026-02-12,Thane_East_Hub,East,Koliwada,Afternoon,31,32.9,Delivered,Partner_A
+20260212_344,2026-02-12,Thane_East_Hub,East,Koliwada,Evening,31,35.5,Delivered,Partner_B
+20260212_345,2026-02-12,Thane_East_Hub,East,Koliwada,Morning,28,28.6,Delivered,Partner_C
+20260212_346,2026-02-12,Thane_East_Hub,East,Koliwada,Evening,29,30.3,Delivered,Partner_C
+20260212_347,2026-02-12,Thane_East_Hub,East,Koliwada,Morning,27,27.1,Delivered,Partner_C
+20260212_348,2026-02-12,Thane_East_Hub,East,Koliwada,Afternoon,29,31.5,Delivered,Partner_C
+20260212_349,2026-02-12,Thane_East_Hub,East,Koliwada,Evening,31,35.6,Delivered,Partner_A
+20260212_350,2026-02-12,Thane_East_Hub,East,Koliwada,Morning,30,30.7,Delivered,Partner_C
+20260212_351,2026-02-12,Thane_East_Hub,East,Koliwada,Morning,30,28.7,Delivered,Partner_A
+20260212_352,2026-02-12,Thane_East_Hub,East,Koliwada,Afternoon,30,30.6,Delivered,Partner_B
+20260212_353,2026-02-12,Thane_East_Hub,East,Azad Nagar,Afternoon,31,31.0,Delivered,Partner_B
+20260212_354,2026-02-12,Thane_East_Hub,East,Azad Nagar,Evening,29,29.7,Delivered,Partner_B
+20260212_355,2026-02-12,Thane_East_Hub,East,Azad Nagar,Afternoon,31,32.8,Delivered,Partner_A
+20260212_356,2026-02-12,Thane_East_Hub,East,Azad Nagar,Morning,29,28.4,Delivered,Partner_B
+20260212_357,2026-02-12,Thane_East_Hub,East,Azad Nagar,Evening,29,31.5,Delivered,Partner_B
+20260212_358,2026-02-12,Thane_East_Hub,East,Azad Nagar,Afternoon,31,32.4,Delivered,Partner_A
